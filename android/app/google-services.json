@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280057632316",
+    "project_id": "murch-better-13e91",
+    "storage_bucket": "murch-better-13e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280057632316:android:174ca1d574da3957d19539",
+        "android_client_info": {
+          "package_name": "com.example.admin_murch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcA6zTJGS5ePQ0oCs3OBQ2XNCvItWMRr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
